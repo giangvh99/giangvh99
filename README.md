@@ -2,7 +2,7 @@
 
 # 💫About Me :
 I'm chasing the dream of becoming a professional data scientist
-Let's connect!
+. Let's connect!
 
 
 ## 🌐Socials
